@@ -59,13 +59,13 @@ atom_feed:
   hide: false
 
 # 导航栏配置
-navigation:
-  - title: "首页"
-    url: "/"
-  - title: "关于"
-    url: "/about"
-  - title: "归档"
-    url: "/year-archive/"
+nav_links:
+  - title: 首页
+    url: /
+  - title: 关于
+    url: /about
+  - title: 归档
+    url: /year-archive/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
