@@ -26,10 +26,22 @@ baseurl: "" # 如果使用 GitHub Pages 项目页面，这里填写仓库名
 url: "" # 这里填写您的 GitHub Pages 域名，例如：https://yourusername.github.io
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-toc
+
+# Theme settings
+show_downloads: true
+
+# Gitalk 配置
+gitalk:
+  clientID: # 在 GitHub OAuth 应用中获取
+  clientSecret: # 在 GitHub OAuth 应用中获取
+  repo: ZhongJZ666.github.io
+  owner: ZhongJZ666
+  admin: [ZhongJZ666]
 
 # Exclude from processing
 exclude:
