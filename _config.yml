@@ -58,12 +58,12 @@ search: true
 atom_feed:
   hide: false
 
-# 导航栏示例
+# 导航栏配置
 navigation:
   - title: "首页"
     url: "/"
   - title: "关于"
-    url: "/about/"
+    url: "/about"
   - title: "归档"
     url: "/year-archive/"
 

@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: default
 title: 关于我
-permalink: /about/
+permalink: /about
 ---
 
 # 关于我
