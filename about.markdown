@@ -1,8 +1,10 @@
 ---
-layout: single
+layout: default
 title: 关于我
 permalink: /about/
 ---
+
+# 关于我
 
 你好！我是博客的主人，这里记录我的学习、生活与成长。
 

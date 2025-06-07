@@ -24,16 +24,20 @@ description: >-
   这里是我的个人博客，记录学习与生活。
 baseurl: "" # 如果使用 GitHub Pages 项目页面，这里填写仓库名
 url: "" # 这里填写您的 GitHub Pages 域名，例如：https://yourusername.github.io
-twitter_username: 
-github_username:  
 
 # Build settings
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-archives
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .gitignore
 
 # Minimal Mistakes 主题推荐配置
 locale: zh-CN
