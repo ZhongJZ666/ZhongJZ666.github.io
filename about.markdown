@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 关于我
 permalink: /about/
 ---
@@ -9,7 +9,7 @@ permalink: /about/
 你好！我是博客的主人，这里记录我的学习、生活与成长。
 
 ## 个人简介
-
+2022年进入云南大学信息学院，喜欢搞计算机
 - 热爱编程与技术
 - 喜欢阅读与写作
 - 关注个人成长
@@ -18,12 +18,12 @@ permalink: /about/
 
 欢迎通过以下方式联系我：
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [584801430@qq.com](mailto:584801430@qq.com)
 - GitHub: [ZhongJZ666](https://github.com/ZhongJZ666)
 
 ## 技能树
 
-- 编程语言
+- 编程语言:C++,python
 - 开发工具
 - 其他技能
 
