@@ -1,0 +1,62 @@
+@import "{{ site.theme }}";
+
+// 自定义样式
+.post {
+  margin-bottom: 2em;
+  padding: 1em;
+  background-color: #f8f8f8;
+  border-radius: 5px;
+}
+
+.post-meta {
+  color: #666;
+  font-size: 0.9em;
+  margin-bottom: 1em;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.5em 1em;
+  background-color: #159957;
+  color: white;
+  text-decoration: none;
+  border-radius: 3px;
+  transition: background-color 0.3s;
+}
+
+.btn:hover {
+  background-color: #138a4a;
+  color: white;
+  text-decoration: none;
+}
+
+// 美化链接
+a {
+  color: #159957;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+a:hover {
+  color: #138a4a;
+  text-decoration: underline;
+}
+
+// 美化列表
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+li {
+  margin-bottom: 0.5em;
+  padding-left: 1.5em;
+  position: relative;
+}
+
+li:before {
+  content: "•";
+  color: #159957;
+  position: absolute;
+  left: 0;
+} 
