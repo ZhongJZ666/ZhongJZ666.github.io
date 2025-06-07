@@ -23,7 +23,7 @@ email: your-email@example.com
 description: >-
   这里是我的个人博客，记录学习与生活。
 baseurl: "" # 如果使用 GitHub Pages 项目页面，这里填写仓库名
-url: "https://ZhongJZ666.github.io" # 这里填写您的 GitHub Pages 域名
+url: "" # 这里填写您的 GitHub Pages 域名
 
 # Build settings
 theme: jekyll-theme-cayman
