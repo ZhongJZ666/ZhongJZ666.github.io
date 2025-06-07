@@ -28,7 +28,7 @@ twitter_username:
 github_username:  
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-sitemap
