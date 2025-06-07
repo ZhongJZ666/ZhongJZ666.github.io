@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 机器学习笔记
-date: 2024-06-07
+date: 2025-06-07
 categories: [机器学习]
 toc: true
 ---
