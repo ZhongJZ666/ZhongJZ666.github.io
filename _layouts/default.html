@@ -9,12 +9,14 @@
   </head>
   <body>
     <header class="page-header">
-      <h1 class="project-name">{{ page.title | default: site.title }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description }}</h2>
+      <div class="header-content">
+        <h1 class="project-name">{{ page.title | default: site.title }}</h1>
+        <h2 class="project-tagline">{{ page.description | default: site.description }}</h2>
+      </div>
       <nav class="main-nav">
-        <a href="{{ '/' | relative_url }}" class="btn">首页</a>
-        <a href="{{ '/about' | relative_url }}" class="btn">关于我</a>
-        <a href="{{ '/year-archive' | relative_url }}" class="btn">归档</a>
+        <a href="{{ '/' | relative_url }}" class="nav-link">首页</a>
+        <a href="{{ '/about' | relative_url }}" class="nav-link">关于我</a>
+        <a href="{{ '/year-archive' | relative_url }}" class="nav-link">归档</a>
       </nav>
     </header>
 
