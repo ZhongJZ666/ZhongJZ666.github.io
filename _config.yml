@@ -23,7 +23,7 @@ email: your-email@example.com
 description: >-
   这里是我的个人博客，记录学习与生活。
 baseurl: "" # 如果使用 GitHub Pages 项目页面，这里填写仓库名
-url: "" # 这里填写您的 GitHub Pages 域名，例如：https://yourusername.github.io
+url: "" # 这里填写您的 GitHub Pages 域名，例如：https://ZhongJZ666.github.io
 
 # Build settings
 theme: jekyll-theme-cayman
@@ -37,8 +37,8 @@ show_downloads: true
 
 # Gitalk 配置
 gitalk:
-  clientID: # 在 GitHub OAuth 应用中获取
-  clientSecret: # 在 GitHub OAuth 应用中获取
+  clientID: Ov23ligXQul4KRb7ruoK
+  clientSecret: ddb6d665798c01de6abf1fdf18a573f30e394e2c
   repo: ZhongJZ666.github.io
   owner: ZhongJZ666
   admin: [ZhongJZ666]
