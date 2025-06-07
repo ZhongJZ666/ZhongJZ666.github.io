@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 机器学习笔记
-date: 2025-06-07
-categories: [测试]
+date: 2024-03-20
+categories: [机器学习]
 toc: true
 ---
 
